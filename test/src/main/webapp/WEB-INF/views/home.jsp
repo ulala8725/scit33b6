@@ -7,6 +7,7 @@
 <h1>
 <<<<<<< HEAD
 	Hello world!  dfghjk 와 
+	뭐야 왜 안댐
 =======
 웰컴 투 github!!
 >>>>>>> branch 'master' of https://github.com/ulala8725/scit33b6.git
